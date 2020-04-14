@@ -1,9 +1,6 @@
-# v0.1.1 (Tue Apr 14 2020)
+# v0.1.0 (Tue Sep 03 2019)
 
-#### ⚠️  Pushed to `master`
-
-- Initialize project using Create React App (vanessa@pebbleroad.com)
+- Created first version of the design system, with `Avatar`, `Badge`, `Button`, `Icon` and `Link` components.
 
 #### Authors: 1
-
-- Vanessa (vanessa@pebbleroad.com)
+- Tom Coleman ([@tmeasday](https://github.com/tmeasday))
